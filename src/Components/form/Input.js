@@ -1,6 +1,6 @@
 import styles from './Input.module.css'
 
-const Input = ({type, text, name, placeholder, handleonChange, value}) => {
+const Input = ({type, text, name, placeholder, value, handleonChange}) => {
     return ( 
         <div className={styles.form_control}>
             <label htmlFor={name}>{text}:</label>

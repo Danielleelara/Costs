@@ -11,3 +11,8 @@ body,
   background-color: #efefef;
   height: 100%;
 }
+select {
+  background-color:#fff !important;
+  overflow: visible !important;
+  color: #7b7b7b;
+}

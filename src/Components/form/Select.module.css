@@ -14,3 +14,7 @@
     border-radius: 0;
     border: none;
 }
+select:not(:-internal-list-box) {
+    background-color: buttonface;
+    overflow: visible !important;
+}
