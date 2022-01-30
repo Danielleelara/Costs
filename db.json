@@ -1,32 +1,6 @@
 {
   "projects": [
     {
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "aaa",
-      "budget": "2500",
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Danielle",
-      "budget": "2500",
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "name": "Danielle",
-      "budget": "2500",
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
       "name": "Maria ",
       "budget": "4000",
       "category": {
@@ -58,6 +32,17 @@
       "cost": 0,
       "services": [],
       "id": 7
+    },
+    {
+      "name": "Danielle de Souza",
+      "budget": "54871",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
     }
   ],
   "categories": [
