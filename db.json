@@ -2,13 +2,47 @@
   "projects": [
     {
       "name": "Danielle ",
-      "budget": "500",
+      "budget": "252215",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 300,
+      "services": [
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "id": "d600da76-33c4-4776-a839-f60d29d24848"
+        },
+        {
+          "name": "estera",
+          "description": "este",
+          "cost": "200",
+          "id": "77512891-4e5c-49e4-83ac-3b04e3f7038e"
+        },
+        {
+          "name": "estera",
+          "description": "este",
+          "cost": "100",
+          "id": "b389e184-7174-4f4c-93ee-24ed66b1b661"
+        }
+      ],
       "id": 1
     },
     {
@@ -21,6 +55,17 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Fazenda do Chiquinho",
+      "budget": "25000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [

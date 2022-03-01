@@ -1,6 +1,6 @@
 import styles from './Input.module.css'
 
-const Input = ({type, text, name, placeholder, value, handleonChange}) => {
+const Input = ({type, text, name, placeholder, value, onChange}) => {
     return ( 
         <div className={styles.form_control}>
             <label htmlFor={name}>{text}:</label>
@@ -9,7 +9,7 @@ const Input = ({type, text, name, placeholder, value, handleonChange}) => {
                 name={name} 
                 id={name} 
                 placeholder={placeholder}  
-                onChange={handleonChange}
+                onChange={onChange}
                 value={value}
             />
         </div>
