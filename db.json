@@ -7,29 +7,8 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 300,
+      "cost": 45022,
       "services": [
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
-        {
-          "id": "d600da76-33c4-4776-a839-f60d29d24848"
-        },
         {
           "name": "estera",
           "description": "este",
@@ -41,6 +20,42 @@
           "description": "este",
           "cost": "100",
           "id": "b389e184-7174-4f4c-93ee-24ed66b1b661"
+        },
+        {
+          "name": "Maria do Bairro",
+          "cost": "5000",
+          "description": "aa",
+          "id": "179d6a51-764e-4546-96cd-9939f37c4163"
+        },
+        {
+          "name": "Casa ",
+          "cost": "2500",
+          "description": "Construir uma casa",
+          "id": "450cfdbc-2cf7-4cb5-83b2-17c657506548"
+        },
+        {
+          "name": "Eugênio",
+          "cost": "25124",
+          "description": "Meu amor",
+          "id": "6f438ea1-a91b-4bb3-b7be-9a0b0186efd8"
+        },
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "1fd753d8-26dc-4d96-b23c-2704226c69b8"
+        },
+        {
+          "name": "testeaa",
+          "cost": "9998",
+          "description": "testando",
+          "id": "27359cec-53da-4bd6-8300-d895c25250a7"
+        },
+        {
+          "name": "Dev Front ",
+          "cost": "2000",
+          "description": "Fazer um site",
+          "id": "579b9ee1-255a-4ac4-acc6-4326932f6d7f"
         }
       ],
       "id": 1
@@ -52,8 +67,15 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 250,
+      "services": [
+        {
+          "name": "Dev Back end",
+          "cost": "250",
+          "description": "Fazer uma API",
+          "id": "45b72377-7d04-432e-a7b9-bb2aadd2188c"
+        }
+      ],
       "id": 2
     },
     {
@@ -66,6 +88,17 @@
       "cost": 0,
       "services": [],
       "id": 3
+    },
+    {
+      "name": "Casa do Eugênio",
+      "budget": "2513500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
